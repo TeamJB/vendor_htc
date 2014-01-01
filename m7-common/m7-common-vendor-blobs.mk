@@ -76,7 +76,6 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m7-common/proprietary/etc/tfa/voip_l.eq:/system/etc/tfa/voip_l.eq \
         vendor/htc/m7-common/proprietary/etc/tfa/voip_l.preset:/system/etc/tfa/voip_l.preset \
         vendor/htc/m7-common/proprietary/etc/tfa/voip.preset:/system/etc/tfa/voip.preset \
-        vendor/htc/m7-common/proprietary/etc/agps_rm:/system/etc/agps_rm \
         vendor/htc/m7-common/proprietary/etc/hldm.bin:/system/etc/hldm.bin \
         vendor/htc/m7-common/proprietary/etc/hltof.bin:/system/etc/hltof.bin \
         vendor/htc/m7-common/proprietary/etc/hltrd.bin:/system/etc/hltrd.bin \
@@ -181,14 +180,14 @@ PRODUCT_COPY_FILES += \
         vendor/htc/m7-common/proprietary/etc/firmware/tzapps.b02:/system/etc/firmware/tzapps.b02 \
         vendor/htc/m7-common/proprietary/etc/firmware/tzapps.b03:/system/etc/firmware/tzapps.b03 \
         vendor/htc/m7-common/proprietary/etc/firmware/tzapps.mdt:/system/etc/firmware/tzapps.mdt \
-        vendor/htc/m7-common/proprietary/vendor/lib/libqc-opt.so:/system/vendor/lib/libqc-opt.so \
+        vendor/htc/m7-common/proprietary/lib/libqc-opt.so:/system/lib/libqc-opt.so \
         vendor/htc/m7-common/proprietary/lib/hw/sensors.default.so:/system/lib/hw/sensors.default.so \
         vendor/htc/m7-common/proprietary/lib/libimu.so:/system/lib/libimu.so \
         vendor/htc/m7-common/proprietary/lib/libmllite.so:/system/lib/libmllite.so \
         vendor/htc/m7-common/proprietary/lib/libmlplatform.so:/system/lib/libmlplatform.so \
         vendor/htc/m7-common/proprietary/lib/libmpl.so:/system/lib/libmpl.so \
         vendor/htc/m7-common/proprietary/lib/libmpl_jni.so:/system/lib/libmpl_jni.so \
-        vendor/htc/m7-common/proprietary/lib/libQSEEComAPI.so:/system/lib/libQSEEComAPI.so \
+        vendor/htc/m7-common/proprietary/vendor/lib/libQSEEComAPI.so:/system/lib/vendor/libQSEEComAPI.so \
         vendor/htc/m7-common/proprietary/vendor/lib/libwvm.so:/system/vendor/lib/libwvm.so \
         vendor/htc/m7-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:/system/vendor/lib/libWVStreamControlAPI_L1.so \
         vendor/htc/m7-common/proprietary/etc/firmware/BCM4335B0_002.001.006.0296.0297.hcd:/system/etc/firmware/BCM4335B0_002.001.006.0296.0297.hcd \
